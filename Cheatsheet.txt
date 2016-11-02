@@ -1,0 +1,19 @@
+ls; view content inside folder
+
+git clone --config="http.proxy=http://authur2718:authur2718@192.168.2.1:8080" https://github.com/authur2718-cmis/authur2718-cmis.wd.git   
+download file from git
+
+cat; read stuff in files
+
+cd; change your position in files
+
+git add filename; add certain files into git's database. necessary step to save
+
+git commit -m "message"; to save a snapshot of your work.
+
+git push; save everything
+
+gedit filename &; create/edit existing files
+
+use tab key to auto complete
+
