@@ -1,0 +1,10 @@
+Enter the class.
+log into your computer, google account, wifi password and github.
+open terminal.
+copy and insert the following command tto download your repository from github;git clone --config="http.proxy=http://authur2718:authur2718@192.168.2.1:8080" https://github.com/authur2718-cmis/authur2718-cmis.wd.git
+Use the command "cd foldername" to enter the git repository.
+To create and edit a new file, enter "gedit <filename> &",in this case the file name is "file.txt'.
+Make the changes you prefer in the file.
+To save your changes, you must first type in "git add .for an unclear reason.
+Then type in "git commit -m "commit message"" to save a snapshot. You might need to type in your username and password for git hub. 
+Type in "git push to save everything. 
