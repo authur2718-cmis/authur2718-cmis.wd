@@ -15,5 +15,18 @@ git push; save everything
 
 gedit filename &; create/edit existing files
 
-use tab key to auto complete
+use tab key to auto complete 
+
+pwd; show your position
+
+sftp authur2718@cmis-hsteacher
+
+!ls
+
+put foldername; to make a copy in Nkeiffer's computer.
+
+localhost:8000/foldername/filename    to show the files in your computer with a browser when you had your server open.
+
+
+
 
