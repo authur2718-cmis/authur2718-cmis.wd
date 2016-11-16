@@ -27,6 +27,6 @@ put foldername; to make a copy in Nkeiffer's computer.
 
 localhost:8000/foldername/filename    to show the files in your computer with a browser when you had your server open.
 
-
+cd is necessary when using sftp. cd to public_html/
 
 
