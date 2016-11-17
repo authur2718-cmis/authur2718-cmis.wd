@@ -10,13 +10,33 @@ h1{
 	border:5px solid red;
 }
 h2{
-	color:#00f746;
+	color:#ff0000;
 	font-family:serif;
-	font-style:italic;
+	font-style:bold;
 	font-weight:1000;
 	font-size:50px;
 	text-align:center;
+}
+html{
+	background-color:#000000;
+	border:20px dotted #00307f;
+	background-image: url("Dragon_Fantasy_Art-720x405.jpg")
+}
+p{
+	color:#555555;
+	font-family:monospace;
+	font-style:oblique;
+	font-weight:200;
+	font-size:22px;
+	text-align:center;
+}
+footer{
+	float:left;
+	color:green;
+	font-family:monospace;
+
 	
+
 	
 	
 	
