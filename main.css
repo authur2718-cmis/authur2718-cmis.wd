@@ -8,7 +8,11 @@ h1{
 	text-align:center;
 	text-shadow: 5px 2px #000000;
 	border:5px solid red;
+	padding-bottom:50px;
+	border-radius: 50px
+	
 }
+
 h2{
 	color:#ff0000;
 	font-family:serif;
@@ -19,8 +23,9 @@ h2{
 }
 html{
 	background-color:#000000;
-	border:20px dotted #00307f;
-	background-image: url("Dragon_Fantasy_Art-720x405.jpg")
+	border:5px solid #00307f;
+	background-image: url("Dragon_Fantasy_Art-720x405.jpg");
+	padding-bottom:500px
 }
 p{
 	color:#555555;
@@ -29,12 +34,20 @@ p{
 	font-weight:200;
 	font-size:22px;
 	text-align:center;
+	float:right
 }
 footer{
-	float:left;
+	left:10px;
+	bottom:10px;
+	position:fixed;
 	color:green;
 	font-family:monospace;
-
+}
+img{
+	float:center
+	left:50px;
+	bottom:50px;
+	position:fixed
 	
 
 	
