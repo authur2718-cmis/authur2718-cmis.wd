@@ -1,3 +1,45 @@
+/*
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+*<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server.
+*/
+/*
+color
+background color
+font family
+font style
+font weight
+font size
+text align
+text shadow
+border
+padding
+border radius
+background
+background image
+bottom 
+left
+right
+top
+position
+float
+z index	
+outline
+*/
 h1{ 
 	color:#6877d6;
 	background-color:#e87474;
@@ -10,6 +52,7 @@ h1{
 	border:5px solid red;
 	padding-bottom:50px;
 	border-radius: 50px;
+	outline: 5px solid black;
 	
 }
 
@@ -35,7 +78,9 @@ p{
 	font-weight:200;
 	font-size:22px;
 	text-align:center;
-	float:left;
+	border-left:10px solid blue;
+	outline:2px solid green;
+	
 }
 footer{
 	left:10px;
@@ -45,7 +90,6 @@ footer{
 	font-family:monospace;
 }
 h3{
-	float:center;
 	left:50px;
 	bottom:50px;
 	position:fixed;
@@ -54,8 +98,8 @@ h3{
 h4{
 	position:absolute;
 	z-index:-10;
-	right:10px;
-	top:10px
+	right:200px;
+	top:10px;
 }
 
 
