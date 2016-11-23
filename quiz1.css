@@ -1,0 +1,54 @@
+h1{ 
+	color:yellow;
+	background-color:green;
+	font-family:fantasy;
+	font-style:oblique;
+	font-size:50px;
+	border-bottom:7px dashed red;
+	border-color:yellow;
+}
+
+h2{
+	color:blue;
+	font-family:fantasy;
+	font-style:italic;
+	font-size:15px;
+	background-color:red;
+	line-height:2;
+	position:absolute;
+	top:90px
+	
+}
+html{
+	background-color:#ffffff;
+}
+p{
+	color:green;
+	font-family:monospace;
+	font-style:oblique;
+	font-weight:200;
+	font-size:22px;
+	text-align:center;
+	border-left:10px solid blue;
+	outline:2px solid green;
+	
+}
+footer{
+	left:10px;
+	bottom:10px;
+	position:fixed;
+	color:green;
+	font-family:monospace;
+}
+h3{
+	left:50px;
+	bottom:50px;
+	position:fixed;
+	z-index:-4;
+}
+h4{
+	position:absolute;
+	z-index:-10;
+	right:200px;
+	top:10px;
+}
