@@ -64,23 +64,21 @@ h2{
 	font-size:50px;
 	text-align:center;
 }
+main p{
+	color:green;
+	font-family:monospace;
+	font-style:oblique;
+	font-size:22px;
+	text-align:center;
+	border-left:10px solid blue;
+	outline:2px solid green;
+}
 html{
 	background-color:#000000;
 	border:5px solid #00307f;
 	background-image: url("http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png");
 	padding-bottom:700px;
 	background: radial-gradient(circle, red, black);
-}
-p{
-	color:green;
-	font-family:monospace;
-	font-style:oblique;
-	font-weight:200;
-	font-size:22px;
-	text-align:center;
-	border-left:10px solid blue;
-	outline:2px solid green;
-	
 }
 footer{
 	left:10px;

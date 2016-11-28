@@ -29,4 +29,5 @@ localhost:8000/foldername/filename    to show the files in your computer with a 
 
 cd is necessary when using sftp. cd to public_html/
 
+<a href="url">link text</a> is the way o insert links
 
