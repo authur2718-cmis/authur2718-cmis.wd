@@ -1,0 +1,76 @@
+html{
+	background-color:#000000;
+	border:5px solid #00307f;
+	background-image: url("http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png");
+	padding-bottom:700px;
+	background: radial-gradient(circle, red, black);
+}
+
+h1{ 
+	color:#6877d6;
+	background-color:#e87474;
+	font-family:fantasy;
+	font-style:oblique;
+	font-weight:200;
+	font-size:50px;
+	text-align:center;
+	text-shadow: 5px 2px #000000;
+	border:5px solid red;
+	padding-bottom:50px;
+	border-radius: 50px;
+	outline: 5px solid black;
+	
+}
+li{
+	color:blue;
+	font-family:serif;
+	font-style:oblique;
+	font-size:22px;
+	margin-top:-25px;
+
+}
+P{
+	color:green;
+	font-family:monospace;
+	font-style:oblique;
+	font-size:22px;
+	text-align:center;
+	border-left:10px solid blue;
+	outline:2px solid green;
+	margin-top:-25px;
+}
+h2,h3{
+	color:#ff0000;
+	font-family:serif;
+	font-style:italic;
+	font-weight:200;
+	font-size:50px;
+	text-align:center;
+	margin-top:-20px;
+}
+footer{
+	left:10px;
+	bottom:10px;
+	position:fixed;
+	color:green;
+	font-family:monospace;
+}
+h4{
+	left:50px;
+	bottom:50px;
+	position:fixed;
+	z-index:-4;
+}
+h5{
+	position:absolute;
+	z-index:-10;
+	right:200px;
+	top:10px;
+}
+
+
+	
+
+	
+	
+	
