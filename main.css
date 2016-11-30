@@ -41,7 +41,7 @@ z index
 outline
 */
 html{
-	border:5px solid #00307f;
+	border:groove 10px red;
 	background:  radial-gradient(circle, red, black);
 	background-position:center;
 	padding-bottom:700px;
@@ -57,10 +57,11 @@ h1{
 	font-size:50px;
 	text-align:center;
 	text-shadow: 5px 2px #000000;
-	border:5px solid red;
+	border:5px ridge red;
 	padding-bottom:50px;
 	border-radius: 50px;
-	outline: 5px solid black;
+	outline: 5px dotted black;
+	text-decoration:underline;
 	
 }
 li{
@@ -101,10 +102,10 @@ footer{
 	font-family:monospace;
 }
 h5{
-	text-align:center;
-	z-index:-10;
-	left:200px;
-	top:10px;
+	position:absolute;
+	left:600px;
+	top:20px;
+	z-index:-5;
 }
 h4{
 	left:50px;
