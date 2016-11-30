@@ -41,11 +41,11 @@ z index
 outline
 */
 html{
-	background-color:#000000;
 	border:5px solid #00307f;
-	background-image: url("http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png");
+	background:  radial-gradient(circle, red, black);
+	background-position:center;
 	padding-bottom:700px;
-	background: radial-gradient(circle, red, black);
+	
 }
 
 h1{ 
@@ -84,7 +84,7 @@ ul li{
 	list-style-type: square ;
 }
 h2,h3{
-	color:darkred;
+	color:blue;
 	font-family:serif;
 	font-style:italic;
 	font-weight:500px;
@@ -92,6 +92,7 @@ h2,h3{
 	text-align:center;
 	margin-top:-20px;
 }
+
 footer{
 	left:10px;
 	bottom:10px;
@@ -99,17 +100,19 @@ footer{
 	color:green;
 	font-family:monospace;
 }
+h5{
+	text-align:center;
+	z-index:-10;
+	left:200px;
+	top:10px;
+}
 h4{
 	left:50px;
 	bottom:50px;
 	position:fixed;
 	z-index:-4;
-}
-h5{
-	position:absolute;
-	z-index:-10;
-	right:200px;
-	top:10px;
+	opacity: 0.3;
+    filter: alpha(opacity=30)
 }
 
 p{
