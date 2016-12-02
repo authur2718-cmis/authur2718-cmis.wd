@@ -1,0 +1,50 @@
+header{ 
+	background-color:blue;
+}
+main{
+	background-color:white;
+}
+h1{ 
+	color:yellow;
+	font-family:fantasy;
+	font-size:50px;
+	border-left:50px solid yellow;
+}
+header p{
+	color:white;
+	font-size:22px;
+	font-family:sans;
+	
+}
+h2{
+	font-family:serif;
+	font-size:30px;
+	border-right:150px solid green;
+}
+ol li{
+	border:1px dotted black;
+	font-size:22px;
+}
+ul li{
+	text-decoration: line-through;
+}
+a{
+	text-decoration: line-through;
+	color:yellow;
+}
+html{
+	background-color:red;
+	margin-left:500px;
+	margin-right:500px;
+}
+main p{
+	font-size:22px;
+	text-decoration: underline;
+}
+footer{
+	color:white;
+	font-family:sans;
+	background-color:blue;
+}
+
+
