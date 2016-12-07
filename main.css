@@ -47,20 +47,25 @@ html{
 	padding-bottom:700px;
 	
 }
-
+header{
+	border:5px groove yellow;
+}
+main{
+	border:10pt solid blue;
+}
 h1{ 
 	color:#6877d6;
 	background-color:#e87474;
 	font-family:fantasy;
 	font-style:oblique;
 	font-weight:200;
-	font-size:50px;
+	font-size:10vh;
 	text-align:center;
 	text-shadow: 5px 2px #000000;
 	border:5px ridge red;
 	padding-bottom:50px;
 	border-radius: 50px;
-	outline: 5px dotted black;
+	outline: 0.1cm dotted black;
 	text-decoration:underline;
 	
 }
@@ -88,12 +93,14 @@ h2,h3{
 	color:blue;
 	font-family:serif;
 	font-style:italic;
-	font-weight:500px;
+	font-weight:500;
 	font-size:50px;
 	text-align:center;
 	margin-top:-20px;
 }
-
+nav{
+	border:5px groove green;
+}
 footer{
 	left:10px;
 	bottom:10px;
