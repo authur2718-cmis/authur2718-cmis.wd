@@ -1,5 +1,6 @@
 html{
 	background:  linear-gradient( #ADEB61, #ffffff);
+	margin-bottom:500px;
 }
 body{
 	margin-left:300px;
@@ -48,33 +49,24 @@ ul li{
 	font-size:22px;
 	list-style-type: square ;
 }
-h2,h3{
-	color:blue;
-	font-family:serif;
+h2{
+	color:green;
+	font-family:Impact, Charcoal, sans-serif;
 	font-style:italic;
-	font-weight:500px;
+	font-weight:500;
 	font-size:50px;
 	text-align:center;
-	margin-top:-20px;
 }
 
 footer{
 	color:green;
 	font-family:monospace;
 }
-h5{
+div{
 	position:absolute;
-	left:400px;
-	top:20px;
+	right:400px;
+	top:400px;
 	z-index:-5;
-}
-h4{
-	left:50px;
-	bottom:50px;
-	position:fixed;
-	z-index:-4;
-	opacity: 0.3;
-    filter: alpha(opacity=30)
 }
 
 p{
@@ -84,7 +76,7 @@ p{
 	font-size:22px;;
 }
 a:link,a:visited{
-	color:yellow;
+	color:green;
 	text-decoration: none;
 }
 a:hover{
