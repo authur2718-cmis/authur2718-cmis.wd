@@ -39,12 +39,17 @@ position
 margin
 z index	
 outline
+
 */
+/* From Martin I learnt that you can not only push fom github, yoou can also pull.
+	From Sienna I learnt that you can change your cursor's shape, by using the cursor property. */
+	
 html{
 	border:groove 10px red;
 	background:  radial-gradient(circle, red, black);
 	background-position:center;
 	padding-bottom:700px;
+	cursor:crosshair;
 	
 }
 header{
@@ -137,6 +142,8 @@ a:hover{
 	background-color:yellow;
 	color:black;
 	text-decoration: none;
+	cursor:wait;
+	
 }
 a:active{
 	text-decoration:underline;
