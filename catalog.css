@@ -29,12 +29,8 @@ header p{
 	font-size:30px;
 	text-align:center;
 }
-	
-ul li{
-	color:blue;
-	font-family:serif;
-	font-style:oblique;
-	font-size:22px;
+article{
+	text-align:center;
 }
 ol li{
 	color:green;
@@ -49,6 +45,7 @@ ul li{
 	font-style:oblique;
 	font-size:22px;
 	list-style-type: square ;
+	text-align:left;
 }
 h2{
 	color:green;
@@ -58,10 +55,11 @@ h2{
 	font-size:50px;
 	text-align:center;
 }
-
 footer{
 	color:green;
 	font-family:monospace;
+	text-align:center;
+	margin-top:100px;
 }
 div{
 	position:absolute;
@@ -76,7 +74,10 @@ h3{
 	font-size:30px;
 	text-align:center;
 }
-
+article a{
+	font-family:fantasy;
+	border:5px ridge black;;
+}
 p{
 	color:green;
 	font-family:monospace;
