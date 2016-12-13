@@ -31,3 +31,5 @@ cd is necessary when using sftp. cd to public_html/
 
 <a href="url">link text</a> is the way o insert links
 
+http://cmis-hsteacher/~authur2718/
+
