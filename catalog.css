@@ -54,17 +54,24 @@ h2{
 	font-weight:500;
 	font-size:50px;
 	text-align:center;
-	padding:100px;
+}
+article h2{
+	color:green;
+	font-family:Impact, Charcoal, sans-serif;
+	font-style:italic;
+	font-weight:500;
+	font-size:50px;
+	text-align:center;
+	padding-top:100px;
 }
 footer{
 	color:green;
 	font-family:monospace;
 	text-align:center;
-	margin-top:300px;
 }
 div{
 	position:absolute;
-	right:200px;
+	right:40px;
 	top:350px;
 	z-index:-5;
 }
@@ -74,6 +81,7 @@ h3{
 	font-style:italic;
 	font-size:30px;
 	text-align:center;
+	margin-top:-30px;
 }
 article a{
 	font-family:fantasy;
@@ -108,4 +116,8 @@ tr,th,td{
 table{
 	position:absolute;
 	left:600px;
+}
+main{
+	border:3px solid green;
+	padding-bottom:120px;
 }
